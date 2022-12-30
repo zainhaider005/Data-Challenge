@@ -1,3 +1,5 @@
+# Data Challenge - University of New Brunswick
+
 Won the internal data competition among seven teams to represent my university in this data challenge.
 
 Used python to perform exploratory data analysis and data wrangling on New Brunswick provincial health dataset of 20,000 patients.
